@@ -23,7 +23,7 @@ const styles = StyleSheet.create({
         height: height,
         alignItems: 'center',
     },
-    text:{
+    title:{
         color: 'white',
         fontWeight: 'bold',
         fontSize: 20,
@@ -39,6 +39,16 @@ const styles = StyleSheet.create({
         borderRadius: 15,
         width: '95%',
         alignSelf: 'center'
+    },
+    load:{
+        alignSelf: 'center',
+        marginTop: '50%'
+    },
+    text:{
+        color: 'white'
+    },
+    teste:{
+        flexDirection: 'row'
     }
 });
 
