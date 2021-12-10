@@ -8,25 +8,25 @@ This app uses public Star Wars API to show all characters and their informations
     <img src="https://github.com/guizaodev/arca-starwars/blob/develop/src/Midia/5012658887123380723.jpg?raw=true" height="450" />
 </div>
 
-##Features
+## Features
 - Pagination
 - Layout that remembers SW
 - On click you can see few attributes
 
-##Future features
+## Future features
 - Assemble Jest into project
 - Show all attributes
 - Infinite scroll
 
 ---
 
-##How to run the app
+## How to run the app
 
-###Throw an APK
+### Throw an APK
 
 You can install the last app's release from [here](https://github.com/guizaodev/arca-starwars/releases/tag/Release%2F1.0).
 
-###Running the app locally
+### Running the app locally
 
 >Requisites:
 >- Expo
