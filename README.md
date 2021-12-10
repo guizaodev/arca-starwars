@@ -3,9 +3,9 @@
 This app uses public Star Wars API to show all characters and their informations.
 
 <div>
-    <img src="./src/Midia/5012658887123380725.jpg" height="450" />
-    <img src="./src/Midia/5012658887123380724.jpg" height="450" />
-    <img src="./src/Midia/5012658887123380723.jpg" height="450" />
+    <img src="https://github.com/guizaodev/arca-starwars/blob/develop/src/Midia/5012658887123380725.jpg?raw=true" height="450" />
+    <img src="https://github.com/guizaodev/arca-starwars/blob/develop/src/Midia/5012658887123380724.jpg?raw=true" height="450" />
+    <img src="https://github.com/guizaodev/arca-starwars/blob/develop/src/Midia/5012658887123380723.jpg?raw=true" height="450" />
 </div>
 
 ##Features
