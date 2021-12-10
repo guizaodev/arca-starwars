@@ -39,6 +39,6 @@ Then, you can run the app with the follow line:
 expo start
 ```
 
-After that, a page will open in your navigator (probally localhost:3000) showing few project infos.
+After that, a page will open in your navigator (probably localhost:3000) showing few project infos.
 
-Now, all you need is scam the QR Code with your Expo GO app with your phone, or click in **start in an emulator**. :)
+Now, all you need is scan the QR Code with your Expo GO app with your phone, or click in **start in an emulator**. :)
